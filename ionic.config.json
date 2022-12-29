@@ -1,0 +1,7 @@
+{
+  "name": "motivational-quote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
