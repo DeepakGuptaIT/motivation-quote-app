@@ -3,15 +3,34 @@
   "name": "My Ionic App",
   "icons": [
     {
-      "src": "assets/icon/favicon.png",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "assets/icons/firealgo-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
     },
     {
-      "src": "assets/icon/icon.png",
-      "type": "image/png",
+      "src": "assets/icons/firealgo-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/firealgo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/firealgo-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/firealgo-512.png",
       "sizes": "512x512",
-      "purpose": "maskable"
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/firealgo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
